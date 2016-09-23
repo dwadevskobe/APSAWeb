@@ -50,6 +50,7 @@ UCSD APSA
 		<div class="slideshow-container">
 			<img class = "mySlides fade" src="images\apsa1.jpg" alt="Logo1" style="width:81%">
 			<img class = "mySlides fade" src="images\apsa.jpg" alt="Logo1" style="width:81%">
+			<img class = "mySlides fade" src="images\meow.jpg" alt="Logo1" style="width:81%">
     		<a class="prev" onclick="plusDivs(-1)">&#10094;</a>
   			<a class="next" onclick="plusDivs(1)">&#10095;</a>
 		</div>
