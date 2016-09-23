@@ -117,14 +117,15 @@ UCSD APSA
 		<div class = "block">
 			<div class = "color1 shadow" style = "margin:15px; padding:10px">
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
-				<h3> DISORIENTATION</h3>
-				<p class = "events">  Date: Thursday, September 22 6:30PM - 9:00PM <br>
-				 Location: CCC Comunidad Large (2nd Floor Price Center above Burger King) <br> </p>
-				 Our first event of the year!!
 
 				 <h3> Bon(d)fire </h3>
 				 <p class = "events"> Date: Friday, September 23 6:00PM - 9:00PM <br>
 				 Location: La Jolla Shores ( Meet at Sungod Lawn for Rides )
+
+				 <h3> Ice Cream Social</h3>
+				 <p class = "events">  Date: Tuesday, September 27 Time: 6:30 PM <br>
+				 Location: CCC Comunidad Large (2nd Floor Price Center above Burger King) <br> </p>
+				 Enjoy Ice Cream and good company!!
 
 			</div>
 		</div>
