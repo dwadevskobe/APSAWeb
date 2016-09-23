@@ -106,9 +106,9 @@ UCSD APSA
 								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\fb.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
   								<div class="fb-title"><a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a></div>
    								<div class="fb-title"><a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a></div> <br><br><br>
-                                <p class = "events"> ** This is our new and current website and it is constantly being updated! ** <br><br>
-                                       Check out our <a href = "forum.php"> forums</a> for any questions or discussions! 
-                                </p>
+   								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\snap.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
+   								<div class ="fb-title"><h3 class = "signup"><p>Follow us on Snapchat for live updates : ucsdapsa</h3> </div> <br><br><br><br>
+                                <p class = "events"> ** This is our new and current website and it is constantly being updated! ** <br><br> </p>
 			</div>
 		</div>
 	</div>
