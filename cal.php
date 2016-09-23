@@ -69,6 +69,12 @@
             start  : '2016-09-23T18:00:00',
             end : '2016-09-22T21:00:00',
             className: 'big'
+        },
+        {
+            title  : 'Ice Cream Social',
+            start  : '2016-09-23T18:30:00',
+            end : '2016-09-22T20:00:00',
+            className: 'big'
         }
       ]
 
