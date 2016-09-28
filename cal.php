@@ -75,6 +75,18 @@
             start  : '2016-09-27T18:30:00',
             end : '2016-09-27T20:00:00',
             className: 'big'
+        },
+        {
+            title  : 'Boba Social',
+            start  : '2016-10-07T18:30:00',
+            end : '2016-10-07T20:00:00',
+            className: 'big'
+        },
+        {
+            title  : 'Social Justice In Our Jammies',
+            start  : '2016-10-08T13:00:00',
+            end : '2016-10-08T15:30:00',
+            className: 'big'
         }
       ]
 

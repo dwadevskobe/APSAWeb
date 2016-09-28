@@ -109,7 +109,8 @@ UCSD APSA
    								<div class="fb-title"><a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a></div> <br><br><br>
    								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\snap.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
    								<div class ="fb-title"><h3 class = "signup"><p>Follow us on Snapchat for live updates : ucsdapsa</h3> </div> <br><br><br><br>
-                                <p class = "events"> ** This is our new and current website and it is constantly being updated! ** <br><br> </p>
+                                <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
+                                <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
 			</div>
 		</div>
 	</div>
@@ -119,14 +120,17 @@ UCSD APSA
 			<div class = "color1 shadow" style = "margin:15px; padding:10px">
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
-				 <h3> Bon(d)fire </h3>
-				 <p class = "events"> Date: Friday, September 23 6:00PM - 9:00PM <br>
-				 Location: La Jolla Shores ( Meet at Sungod Lawn for Rides )
 
-				 <h3> Ice Cream Social</h3>
-				 <p class = "events">  Date: Tuesday, September 27 Time: 6:30 PM <br>
-				 Location: CCC Comunidad Large (2nd Floor Price Center above Burger King) <br> </p>
-				 Enjoy Ice Cream and good company!!
+				 <h3> Boba Social </h3>
+				 <p class = "events"> Date: Friday, October 7 , 6:00PM - 9:00PM <br>
+				 Location: TBD
+
+				 <h3> Social Justice in Our Jammies </h3>
+				 <p class = "events"> Date: Saturday, October 8 , 1PM - 3:30PM <br>
+				 Location: Cross Culture Center </p>
+
+				 Social Justice in Our Jammies is a workshop meant to create a relaxed environment for those new to social justice spaces to learn and discuss social justice concepts. This week's topic will be language. Comfy clothes are highly recommended! Come out to make some new friends, expand your knowledge and eat some good noms. :)
+
 
 			</div>
 		</div>
@@ -135,9 +139,29 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Ongoing%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 				<h3> GENERAL BODY MEETINGS (GBMs)</h3>
 				<p class = "events"> Date: Every even week Tuesdays (Week 2, 4, 6, 8, 10) <br> 
-   					 Time: 6:30 - 8:00 PM <br> </p>
+   					 Time: 6:30 - 8:00 PM <br> 
+   					 Location: CCC Communidad </p>
    				 	
    				 	Come out to our fun GBMs with interesting topics and activities! Hang out and meet new awesome people!  
+
+   				<h3> High School Confernce Planning Meetings</h3>
+				<p class = "events"> Date: Every Wednesday <br> 
+   					 Time: 6:30 - 8:00 PM <br> 
+   					 Location: Cross Culture Center </p>
+   				 	
+   				 	Make sure you come out if you want to: <br>
+					---get involved in a meaningful experience <br>
+					---make new memories   <br>
+					---gain leadership (something to put on your resume aye)  <br>
+					---hang out with some cool people  
+
+
+   			    <h3> APSA LEAP Meetings</h3>
+				<p class = "events"> Date: Every odd week Tuesdays (Week 1, 3, 5, 7, 9) <br> 
+   					 Time: 6:30 - 8:00 PM <br>
+   					 Location: Cross Culture Center </p>
+   				 	
+   				 	APSA LEAP will also hold biweekly meetings in which you can involve with educational access work for high school students!
 			</div>
 		</div>
 	</div>
