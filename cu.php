@@ -81,7 +81,7 @@
               <td> April Damon </td> <td> Gender and Sexuality Coordinator </td> <td> adamon@ucsd.edu </td>
             </tr>
             <tr>
-              <td> Lynda Ta </td> <td> Graphic Designer </td> <td> uclynda@gmail.com </td>
+              <td> Nancy Phiukhao</td> <td> Ourstorian </td> <td>  </td>
             </tr>
             <tr>
               <td> Annie Chen </td> <td> APSA Intern </td> <td> anniechen310@gmail.com </td>
