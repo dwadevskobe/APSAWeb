@@ -122,8 +122,8 @@ UCSD APSA
 
 
 				 <h3> Boba Social </h3>
-				 <p class = "events"> Date: Friday, October 7 , 6:00PM - 9:00PM <br>
-				 Location: TBD
+				 <p class = "events"> Date: Friday, October 7 , 7:00PM - 9:00PM <br>
+				 Location: InFiniTea, Meet at Croutons for Rides
 
 				 <h3> Social Justice in Our Jammies </h3>
 				 <p class = "events"> Date: Saturday, October 8 , 1PM - 3:30PM <br>
