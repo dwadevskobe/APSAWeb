@@ -109,6 +109,8 @@ UCSD APSA
    								<div class="fb-title"><a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a></div> <br><br><br>
    								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\snap.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
    								<div class ="fb-title"><h3 class = "signup"><p>Follow us on Snapchat for live updates : ucsdapsa</h3> </div> <br><br><br><br>
+   								<p class = "events"> LOOKING TO HAVE A MENTOR IN COLLEGE? COME SIGN UP TO BE A MENTOR OR MENTEE IN APSA HERE
+   								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Applications here </a></p>
                                 <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
                                 <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
 			</div>
@@ -121,15 +123,17 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> Boba Social </h3>
-				 <p class = "events"> Date: Friday, October 7 , 7:00PM - 9:00PM <br>
-				 Location: InFiniTea, Meet at Croutons for Rides
+				 <h3> GBM #2</h3>
+				 <p class = "events"> Date: 10/18/16  <br>
+				 Location: CCC Communidad
 
-				 <h3> Social Justice in Our Jammies </h3>
-				 <p class = "events"> Date: Saturday, October 8 , 1PM - 3:30PM <br>
-				 Location: Cross Culture Center </p>
+				 Our topic will be cultural appropriation! 
 
-				 Social Justice in Our Jammies is a workshop meant to create a relaxed environment for those new to social justice spaces to learn and discuss social justice concepts. This week's topic will be language. Comfy clothes are highly recommended! Come out to make some new friends, expand your knowledge and eat some good noms. :)
+				 <h3>  </h3>
+				 <p class = "events">  <br>
+				  </p>
+
+				 
 
 
 			</div>
@@ -145,9 +149,9 @@ UCSD APSA
    				 	Come out to our fun GBMs with interesting topics and activities! Hang out and meet new awesome people!  
 
    				<h3> High School Confernce Planning Meetings</h3>
-				<p class = "events"> Date: Every Wednesday <br> 
-   					 Time: 6:30 - 8:00 PM <br> 
-   					 Location: Cross Culture Center </p>
+				<p class = "events"> Date: Every Monday <br> 
+   					 Time: 8:00 - 9:00 PM <br> 
+   					 Location: Cross Culture Center Artspace </p>
    				 	
    				 	Make sure you come out if you want to: <br>
 					---get involved in a meaningful experience <br>
