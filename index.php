@@ -109,7 +109,7 @@ UCSD APSA
    								<div class="fb-title"><a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a></div> <br><br><br>
    								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\snap.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
    								<div class ="fb-title"><h3 class = "signup"><p>Follow us on Snapchat for live updates : ucsdapsa</h3> </div> <br><br><br><br>
-   								<p class = "events"> Looking to mentor and be a "big" for someone in college? Applications to become are mentor for APSA here! <br><br>
+   								<p class = "events"> Looking to mentor and help someone grow while having fun with them in college? Applications to become are mentor for APSA here! <br><br>
    								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Applications here </a></p>
                                 <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
                                 <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
