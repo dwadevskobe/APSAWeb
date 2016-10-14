@@ -125,13 +125,16 @@ UCSD APSA
 
 
 				 <h3> GBM #2</h3>
-				 <p class = "events"> Date: 10/18/16  <br>
+				 <p class = "events"> Date: 10/18/16  6:30 PM <br>
 				 Location: CCC Communidad  </p>
 
 				 Our topic will be cultural appropriation! 
 
-				 <h3>  </h3>
-				 <p class = "events">  <br>
+				 <h3> APSA @ Fall Vendor Fair </h3>
+				 <p class = "events"> Date: 10/21/16 11:00AM-12PM  <br>
+				 Location: Library Walk
+
+				 APSA will be selling Gyoza and Thai Tea Floats! Come stop by!!!
 				  </p>
 
 				 
