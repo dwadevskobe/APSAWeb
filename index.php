@@ -132,11 +132,9 @@ UCSD APSA
 
 				 <h3> APSA @ Fall Vendor Fair </h3>
 				 <p class = "events"> Date: 10/21/16 11:00AM-12PM  <br>
-				 Location: Library Walk
+				 Location: Library Walk </p>
 
 				 APSA will be selling Gyoza and Thai Tea Floats! Come stop by!!!
-				  </p>
-
 				 
 
 

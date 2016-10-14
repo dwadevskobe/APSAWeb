@@ -45,10 +45,12 @@
                 <li> Making new friends! </li>
                 <li> All attending HS seniors will have the opportunity of winning a scholarship ($$$) good for any college/university. </li>
       
-        </div>
-
         <h2> If you want to sign up to be a funcilitator, applications can be found here: More info inside the link.
         <a href = https://docs.google.com/forms/d/e/1FAIpQLSdsn5fHgiwqIlB_LoHoQLBsSfQZt7fkajQicQfOFcdlBEKgYg/viewform> Funsies Signup App </a>
+
+        </div>
+
+
 
     </div>
 </div>
