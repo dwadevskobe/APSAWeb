@@ -40,7 +40,7 @@
 
         	<p> What is included? </p>
             
-            <ul style = "margin:0 auto; text-align:left;"">
+            <ul style = "margin:0 auto;">
         		<li> Breakfast, lunch, DINNER & snacks will be provided! </li>
         		<li> A tour of the UCSD campus </li> 
 				    <li> All attendees will get a free t-shirt </li> 

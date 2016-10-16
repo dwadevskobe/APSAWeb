@@ -1,6 +1,18 @@
 
 @import 'https://fonts.googleapis.com/css?family=BioRhyme|Kavoon';
 
+ul#facebook{
+    margin:0 auto; 
+    list-style-position: inside;
+}
+
+.fb1{
+    list-style-image: url("/images/fb.png");
+}
+
+.snap1{
+    list-style-image: url("/images/snap.png");
+}
 
 #header{
       text-decoration: none;
@@ -48,7 +60,7 @@ h3    { font-family: 'BioRhyme', serif;
 
 h3.signup {
     font-family: 'BioRhyme', serif;
-    color: black;
+    display: inline;
 
 }
 

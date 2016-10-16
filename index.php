@@ -104,11 +104,15 @@ UCSD APSA
 		<div class = "intro">
 			<div class = "color1 shadow" style = "margin:45px; padding:10px">
 				<img src="http://fontmeme.com/embed.php?text=Announcements%3A%0A&name=Redressed.ttf&size=50&style_color=15155E" style="width:35%" >
-								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\fb.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
-  								<div class="fb-title"><a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a></div>
-   								<div class="fb-title"><a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a></div> <br><br><br>
-   								<div class="fb-thumb" style = "margin-top:5px;"><img src="images\snap.png" alt="fbLogo" style="width:40px;height:40px;margin-top:10px;" ></div>
-   								<div class ="fb-title"><h3 class = "signup"><p>Follow us on Snapchat for live updates : ucsdapsa</h3> </div> <br><br><br><br>
+
+                                <ul id = "facebook">
+                                     <li class = "fb1"> &nbsp
+                                     	<a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a> &nbsp
+                                     	<a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a>
+                                     </li>
+                                     <li class = "snap1"> <h3><p>&nbsp Follow us on Snapchat for live updates : ucsdapsa</h3></li>
+                                </ul>
+
    								<p class = "events"> Mentor-Mentee Applications : This exciting program is a great way to find someone to connect to and grow with. It is a super exciting way to build meaningful friendships and find a home away from home in APSA through your mxntorship cohort. <br><br>
    								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Mentor Application DEADLINE: SUNDAY 10/23/16</a><br><br>
    								<a href =https://docs.google.com/forms/d/e/1FAIpQLSfq7bVr7Aq7Dv_nCMOYXeWnKD03BzOBDlHa7ZHwuVy-EmWBPQ/viewform?c=0&w=1> Mentee Application DEADLINE: SUNDAY 10/30/16</a></p>
