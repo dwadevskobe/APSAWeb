@@ -87,7 +87,13 @@
             start  : '2016-10-08T13:00:00',
             end : '2016-10-08T15:30:00',
             className: 'big'
-        }
+        },
+        {
+            title  : 'GBM #2 Cultural Appropriation',
+            start  : '2016-10-18T18:30:00',
+            end : '2016-10-18T20:00:00',
+            className: 'big'
+        },
       ]
       ]
 
