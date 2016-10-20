@@ -50,6 +50,8 @@
 
         <h2> If you want to sign up to be a funcilitator, applications can be found here: More info inside the link.
         <a href = https://docs.google.com/forms/d/e/1FAIpQLSdsn5fHgiwqIlB_LoHoQLBsSfQZt7fkajQicQfOFcdlBEKgYg/viewform> Funsies Signup App </a>
+        <h2> If you want to be a volunteer for the day, here are the applications. More info inside the link
+         <a href = https://docs.google.com/forms/d/1bThKUgQA3ACEbN3xsKMIzsuYiG5jYD-wxrdZbWFLtWo/viewform?edit_requested=true> Volunteer App </a>
 
         </div>
 
