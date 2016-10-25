@@ -113,6 +113,8 @@ UCSD APSA
                                      <li class = "snap1"> <h3><p>&nbsp Follow us on Snapchat for live updates : ucsdapsa</h3></li>
                                 </ul>
 
+                                <p class = "events"> We will have a media section where you can look at photos of our events on our website coming soon!!! </p>
+
    								<p class = "events"> Mentor-Mentee Applications : This exciting program is a great way to find someone to connect to and grow with. It is a super exciting way to build meaningful friendships and find a home away from home in APSA through your mxntorship cohort. <br><br>
    								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Mentor Application DEADLINE: SUNDAY 10/23/16</a><br><br>
    								<a href =https://docs.google.com/forms/d/e/1FAIpQLSfq7bVr7Aq7Dv_nCMOYXeWnKD03BzOBDlHa7ZHwuVy-EmWBPQ/viewform?c=0&w=1> Mentee Application DEADLINE: Tuesday 11/02/16</a></p>
@@ -128,16 +130,12 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> GBM #2</h3>
-				 <p class = "events"> </p>
+				 <h3> GBM #3</h3>
+				 <p class = "events"> Date: 11/02/16  6:30PM-8:00PM </p>
+                 Topic: API in politics
 
 
 
-				 <h3> APSA @ Fall Vendor Fair </h3>
-				 <p class = "events"> Date: 10/21/16 11:00AM-12PM  <br>
-				 Location: Library Walk </p>
-
-				 APSA will be selling Gyoza and Thai Tea Floats! Come stop by!!!
 				 
 
 
