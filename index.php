@@ -130,6 +130,11 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
+                 <h3> CHARGERS GAME VOLUNTEERING </h3>
+                 <p class = "events"> Date: 11/06/16 9:00AM - 5:00PM </p>
+                 More details on the fb page: <br>
+                 <a href = https://www.facebook.com/events/246036019133060> Event Page </a>
+
 				 <h3> GBM #3</h3>
 				 <p class = "events"> Date: 11/02/16  6:30PM-8:00PM </p>
                  Topic: API in politics
