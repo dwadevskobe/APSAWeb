@@ -81,7 +81,7 @@
               <td> April Damon </td> <td> Gender and Sexuality Coordinator </td> <td> adamon@ucsd.edu </td>
             </tr>
             <tr>
-              <td> Nancy Phiukhao</td> <td> Ourstorian </td> cphiukhao@gmail.com<td>  </td>
+              <td> Nancy Phiukhao</td> <td> Ourstorian </td> <td> cphiukhao@gmail.com</td>
             </tr>
             <tr>
               <td> Annie Chen </td> <td> APSA Intern </td> <td> anniechen310@gmail.com </td>
