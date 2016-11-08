@@ -42,71 +42,7 @@
 </div>
 
 
-<script>
-    $(document).ready(function() {
-
-
-    $('#calendar').fullCalendar({
-         
-      contentHeight: 1000 , 
-      eventBackgroundColor: 'red' , 
-      events: [
-        {
-            title  : 'Board Meeting',
-            start  : '18:00',
-            end : '20:00',
-            dow : [1],
-            className: 'big'
-        },
-        {
-            title  : 'Disorientation',
-            start  : '2016-09-22T18:30:00',
-            end : '2016-09-22T21:00:00',
-            className: 'big'
-        },
-        {
-            title  : 'Bonfire',
-            start  : '2016-09-23T18:00:00',
-            end : '2016-09-22T21:00:00',
-            className: 'big'
-        },
-        {
-            title  : 'Ice Cream Social',
-            start  : '2016-09-27T18:30:00',
-            end : '2016-09-27T20:00:00',
-            className: 'big'
-        },
-        {
-            title  : 'Boba Social',
-            start  : '2016-10-07T18:30:00',
-            end : '2016-10-07T20:00:00',
-            className: 'big'
-        },
-        {
-            title  : 'Social Justice In Our Jammies',
-            start  : '2016-10-08T13:00:00',
-            end : '2016-10-08T15:30:00',
-            className: 'big'
-        },
-        {
-            title  : 'GBM #2 Cultural Appropriation',
-            start  : '2016-10-18T18:30:00',
-            end : '2016-10-18T20:00:00',
-            className: 'big'
-        }
-      
-      ]
-
-
-    });
-
-
-
-});
-
-</script>
-
-<div id='calendar'></div>
+<iframe src="https://calendar.google.com/calendar/embed?src=ucsdapsa%40gmail.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 </body>
 </html>
