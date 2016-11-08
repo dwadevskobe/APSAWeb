@@ -35,7 +35,7 @@
       <div class = "intro1" style = "margin-top:25px">
         <div class = "color1 shadow" style = "margin:15px; padding:10px">
           <h1> Saturday, November 12, 2016  8:00AM - 9:00PM </h1>
-          <img src="images\hsc.jpg" alt="Logo1" style="">
+          <img src="images\hsc.jpg" alt="Logo1" style="width:75% height:75%">
         	<p> So what's a high school conference? A high school conference is a whole day event dedicated to exposing high school students (9th-12th grades) to higher education through interactive workshops addressing topics such as ethnic/cultural identity, self-expression & art, financial aid, political awareness, high school and community leadership, and youth empowerment. There will also be motivational speakers to share their experiences and meaningful interaction with both UCSD student mentors ("Funcilitators") and each other. Did I mention that your participation in the high school conference is completely FREE and includes FREE meals???  
         	</p>
 
