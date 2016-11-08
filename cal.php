@@ -41,9 +41,9 @@
   <a class = "tablinks" onclick="newTab(event)" href="cu.php">Contact Us</a></li>
 </div>
 
-<p>  <br><br><br><br><br><br> </p>
+<p>  <br> </p>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=ucsdapsa%40gmail.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="1000" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=ucsdapsa%40gmail.com&ctz=America/Los_Angeles" style="border: 0" width="100%" height="6000" frameborder="0" scrolling="no"></iframe>
 
 </body>
 </html>
