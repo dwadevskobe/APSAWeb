@@ -129,8 +129,9 @@ UCSD APSA
 
           <h3> Check out our calendar for full detail of events</h3>
 
-				 <h3> GBM #3</h3>
-				 <p class = "events"> Date: 11/16/16  6:30PM-8:00PM </p>
+				 <h3> Torrey Pines Hike</h3>
+				 <p class = "events"> Date: 11/20/16  9:30AM-1PM </p>
+         MEET IN FRONT OF CROUTONS!!!
 
 
 
