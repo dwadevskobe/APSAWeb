@@ -37,7 +37,7 @@
     </div>
   </div>
 
-  <a class = "tablinks" onclick="newTab(event)" href="forum.php">Forums</a></li>
+  <a class = "tablinks" onclick="newTab(event)" href="media.php">Media</a></li>
   <a class = "tablinks" onclick="newTab(event)" href="cu.php">Contact Us</a></li>
 </div>
 

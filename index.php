@@ -33,7 +33,7 @@ UCSD APSA
   	</div>
   </div>
 
-  <a class = "tablinks" onclick="newTab(event)" href="forum.php">Forums</a></li>
+  <a class = "tablinks" onclick="newTab(event)" href="media.php">Media</a></li>
   <a class = "tablinks" onclick="newTab(event)" href="cu.php">Contact Us</a></li>
 </div>
 
@@ -129,9 +129,10 @@ UCSD APSA
 
           <h3> Check out our calendar for full detail of events</h3>
 
-				 <h3> Torrey Pines Hike</h3>
-				 <p class = "events"> Date: 11/20/16  9:30AM-1PM </p>
-         MEET IN FRONT OF CROUTONS!!!
+				 <h3> Finals Study Jam </h3>
+				 <p class = "events"> Date: Sunday 12/4/16  11:00AM-8PM </p>
+         <h3> Location: Cross Culture Center </h3>
+         Come hang with us!! We will be having free snacks and refreshments!!
 
 
 

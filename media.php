@@ -1,13 +1,24 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="A short description." />
+    <meta name="keywords" content="put, keywords, here" />
+    <title>PHP-MySQL forum</title>
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
 
 <?php include("tabs.php");?>
 
 
-<div class = "center" id = "header">
+
+<div class = "center" id = "header" style = "margin-bottom:50px">
   <a class="tablinks" onclick="newTab(event,home)" href="index.php">Home</a></li>
     <div class = "dropdown">
 
-      <a class = "tablinks active" onclick="newTab(event,about)" href="about.php">About</a></li>
+      <a class = "tablinks" onclick="newTab(event,about)" href="about.php">About</a></li>
       <div class="dropdown-content">
         <a href="ourstory.php">Ourstory</a>
        <a href="ms.php">Mission Statement</a>
@@ -27,14 +38,15 @@
     </div>
   </div>
 
-  <a class = "tablinks" onclick="newTab(event)" href="media.php">Media</a></li>
+  <a class = "tablinks active" onclick="newTab(event)" href="media.php">Media</a></li>
   <a class = "tablinks" onclick="newTab(event)" href="cu.php">Contact Us</a></li>
 </div>
+
 
 <div class ="center">
       <div class = "intro1" style = "margin-top:20px;">
         <div class = "color1 shadow" style = "margin:15px; padding:10px">
-          <h2> FAQ </h2>
+          <h2> Media </h2>
           <p><span style="font-weight:bold"> Q: What is APSA?</span> <br>
 A: APSA stands for Asian Pacific-Islander Student Alliance. It is a student organization that focuses on the issues about the API (Asian Pacific-Islander) community. We focus on four aspects: Cultural, Academic, Political, Social or CAPS. <br><br><br>
 
@@ -57,7 +69,3 @@ A: Yes! You can join at any time during any quarter. The sooner, the better to g
         </div>
       </div>
     </div>
-
-</body>
-
-</html>
