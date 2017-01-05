@@ -110,7 +110,7 @@ UCSD APSA
                                      	<a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a> &nbsp
                                      	<a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a>
                                      </li>
-                                     <li class = "snap1"> <h3><p>&nbsp Follow us on Snapchat for live updates : ucsdapsa</h3></li>
+                                     <li class = "snap1"> <h3>&nbsp Follow us on Snapchat for live updates : ucsdapsa</h3></li>
                                 </ul>
 
                                 <p class = "events"> We will have a media section where you can look at photos of our events on our website coming soon!!! </p>
