@@ -33,7 +33,7 @@ UCSD APSA
   	</div>
   </div>
 
-  <a class = "tablinks" onclick="newTab(event)" href="media.php">Media</a></li>
+  <a class = "tablinks" onclick="newTab(event)" href="forum.php">Forums</a></li>
   <a class = "tablinks" onclick="newTab(event)" href="cu.php">Contact Us</a></li>
 </div>
 
@@ -110,11 +110,12 @@ UCSD APSA
                                      	<a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a> &nbsp
                                      	<a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a>
                                      </li>
-                                     <li class = "snap1"> <h3>&nbsp Follow us on Snapchat for live updates : ucsdapsa</h3></li>
+                                     <li class = "snap1"> <h3 class = "signup"> &nbsp Follow us on Snapchat for live updates : ucsdapsa  </h3></li>
                                 </ul>
 
-                                <p class = "events"> We will have a media section where you can look at photos of our events on our website coming soon!!! </p>
-
+   								<p class = "events"> Mentor-Mentee Applications : This exciting program is a great way to find someone to connect to and grow with. It is a super exciting way to build meaningful friendships and find a home away from home in APSA through your mxntorship cohort. <br><br>
+   								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Mentor Application DEADLINE: SUNDAY 10/23/16</a><br><br>
+   								<a href =https://docs.google.com/forms/d/e/1FAIpQLSfq7bVr7Aq7Dv_nCMOYXeWnKD03BzOBDlHa7ZHwuVy-EmWBPQ/viewform?c=0&w=1> Mentee Application DEADLINE: TUESDAY 11/02/16</a></p>
                                 <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
                                 <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
 			</div>
@@ -127,15 +128,17 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-          <h3> Check out our calendar for full detail of events</h3>
+				 <h3> GBM #2</h3>
+				 <p class = "events"> Date: 10/18/16  6:30 PM <br>
+				 Location: CCC Communidad  </p>
 
-				 <h3> Finals Study Jam </h3>
-				 <p class = "events"> Date: Sunday 12/4/16  11:00AM-8PM </p>
-         <h3> Location: Cross Culture Center </h3>
-         Come hang with us!! We will be having free snacks and refreshments!!
+				 Our topic will be cultural appropriation! 
 
+				 <h3> APSA @ Fall Vendor Fair </h3>
+				 <p class = "events"> Date: 10/21/16 11:00AM-12PM  <br>
+				 Location: Library Walk </p>
 
-
+				 APSA will be selling Gyoza and Thai Tea Floats! Come stop by!!!
 				 
 
 
