@@ -113,9 +113,6 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Follow us on Snapchat for live updates : ucsdapsa  </h3></li>
                                 </ul>
 
-   								<p class = "events"> Mentor-Mentee Applications : This exciting program is a great way to find someone to connect to and grow with. It is a super exciting way to build meaningful friendships and find a home away from home in APSA through your mxntorship cohort. <br><br>
-   								<a href =https://docs.google.com/forms/d/e/1FAIpQLScotzqJir55WvaA-xNJtzRbS-_DuXqkm-FFJr5sKP9BAvmKgg/viewform?c=0&w=1> Mentor Application DEADLINE: SUNDAY 10/23/16</a><br><br>
-   								<a href =https://docs.google.com/forms/d/e/1FAIpQLSfq7bVr7Aq7Dv_nCMOYXeWnKD03BzOBDlHa7ZHwuVy-EmWBPQ/viewform?c=0&w=1> Mentee Application DEADLINE: TUESDAY 11/02/16</a></p>
                                 <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
                                 <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
 			</div>
@@ -128,17 +125,35 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> GBM #2</h3>
-				 <p class = "events"> Date: 10/18/16  6:30 PM <br>
+				 <h3> GBM #1  API IN MEDIA</h3>
+				 <p class = "events"> Date: 1/17/17 Tuesday, 6:30 PM <br>
 				 Location: CCC Communidad  </p>
 
-				 Our topic will be cultural appropriation! 
+				 Our topic will be API in media! Come learn what APSA is about! 
 
-				 <h3> APSA @ Fall Vendor Fair </h3>
-				 <p class = "events"> Date: 10/21/16 11:00AM-12PM  <br>
-				 Location: Library Walk </p>
+				 <h3> Karaoke Night @ Karaoke 101 </h3>
+				 <p class = "events"> Date: 1/19/17 Thursday, 6:00 PM  <br>
+				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
 
-				 APSA will be selling Gyoza and Thai Tea Floats! Come stop by!!!
+				 Sing Your Hearts out !!
+
+				 <h3> Food and Boba Social </h3>
+				 <p class = "events"> Date: 1/20/17 Friday, 11:00AM-12PM  <br>
+				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
+
+				 Come join us and eat good food at Zion Market!
+
+				 <h3> APSA GOES TO APAAC </h3>
+				 <p class = "events"> Date: 1/21/17 Saturday 8:00AM-6PM  <br>
+				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
+
+				 More Info On the FB Page: <a href = "https://www.facebook.com/events/1521561687883975/"> Link </a>
+
+				 <h3> APSA Listen to Silence Conference </h3>
+				 <p class = "events"> Date: 1/27/17 - 1/29/17 <br>
+				 Location : Stanford University </p>
+
+				 More details coming soon!!
 				 
 
 
@@ -154,9 +169,9 @@ UCSD APSA
    				 	
    				 	Come out to our fun GBMs with interesting topics and activities! Hang out and meet new awesome people!  
 
-   				<h3> High School Confernce Planning Meetings</h3>
-				<p class = "events"> Date: Every Monday <br> 
-   					 Time: 8:00 - 9:00 PM <br> 
+   				<h3> Talent Show Planning Meetings</h3>
+				<p class = "events"> Date: Every Wednesday <br> 
+   					 Time: 6:30 - 8:00 PM <br> 
    					 Location: Cross Culture Center Artspace </p>
    				 	
    				 	Make sure you come out if you want to: <br>
