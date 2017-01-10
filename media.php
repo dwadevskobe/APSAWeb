@@ -46,7 +46,7 @@
 <div class ="center">
       <div class = "intro1" style = "margin-top:20px;">
         <div class = "color1 shadow" style = "margin:15px; padding:10px">
-          <h1> Picture Albums Posted soon!! </h1>
+          <iframe src="//embedsocial.com/facebook_album/album_photos/1281212118583573" width="900" height="1500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
         </div>
       </div>
     </div>
