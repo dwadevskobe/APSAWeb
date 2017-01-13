@@ -141,7 +141,7 @@ UCSD APSA
 				 Sing Your Hearts out !!
 
 				 <h3> Food and Boba Social </h3>
-				 <p class = "events"> Date: 1/20/17 Friday, 11:00AM-12PM  <br>
+				 <p class = "events"> Date: 1/20/17 Friday, 6:30 PM  <br>
 				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
 
 				 Come join us and eat good food at Zion Market!
