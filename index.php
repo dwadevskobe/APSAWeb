@@ -113,8 +113,7 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Follow us on Snapchat for live updates : ucsdapsa  </h3></li>
                                 </ul>
 
-                                <p class = "events"> Looking for a meaningful volunteering opportunity and create change? And maybe FREE DINNER? APSA LEAP is working with Reality Changers, and we're looking for volunteer mentors who want to work with underprivileged students/youth in regards to educational access and provide them with academic and personal orientation! It's a really great opportunity for anyone who's seeking for a volunteer hours or building their resume! Training will be provided, and we will have transportation as well for those who need them!  <br><br> 
-                                <a href = https://docs.google.com/forms/d/e/1FAIpQLSdGDU0A8eTvcayac7fgjofB2IUz2ZQ4HR6_dAHlgxKQ2suKYQ/viewform?c=0&w=1> Signup Here</a> </p>
+                                
 			</div>
 		</div>
 	</div>
@@ -127,7 +126,7 @@ UCSD APSA
 
 				 <h3> GBM #1  API IN MEDIA</h3>
 				 <p class = "events"> Date: 1/17/17 Tuesday, 6:30 PM <br>
-				 Location: CCC Communidad  </p>
+				 Location: John Muir Room  </p>
 
 				 Our topic will be API in media! Come learn what APSA is about! 
 
