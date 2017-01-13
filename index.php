@@ -114,7 +114,7 @@ UCSD APSA
                                 </ul>
 
                                 <p> Signup for Email Updates!! <br>
-                                    <a href = https://docs.google.com/forms/d/e/1FAIpQLSfnrBFyBeVQsWj7t6ehypPskbDkBLpAtPMIV4lLtKiFfsg1vw/viewform></a>
+                                    <a href = https://docs.google.com/forms/d/e/1FAIpQLSfnrBFyBeVQsWj7t6ehypPskbDkBLpAtPMIV4lLtKiFfsg1vw/viewform> Here </a>
                                 </p>
 
                                 
