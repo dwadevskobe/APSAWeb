@@ -113,9 +113,9 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Follow us on Snapchat for live updates : ucsdapsa  </h3></li>
                                 </ul>
 
-                                <p> Signup for Email Updates!! <br>
+                                <h3 class = "signup"> Signup for Email Updates!! <br>
                                     <a href = https://docs.google.com/forms/d/e/1FAIpQLSfnrBFyBeVQsWj7t6ehypPskbDkBLpAtPMIV4lLtKiFfsg1vw/viewform> Here </a>
-                                </p>
+                                </h3>
 
                                 
 			</div>
