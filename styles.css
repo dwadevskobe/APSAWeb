@@ -2,11 +2,12 @@
 @import 'https://fonts.googleapis.com/css?family=BioRhyme|Kavoon';
 
 ul#facebook{
-    margin:10px auto; 
+    margin:0 auto; 
     list-style-position: inside;
 }
 
 .fb1{
+    margin: 10px;
     list-style-image: url("/images/fb.png");
 }
 
