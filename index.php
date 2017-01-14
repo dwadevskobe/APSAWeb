@@ -110,7 +110,7 @@ UCSD APSA
                                      	<a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a> &nbsp
                                      	<a href="https://www.facebook.com/apsaucsd/?fref=ts"><h3 class ="signup">Follow our Page</h3></a>
                                      </li>
-                                     <li class = "snap"> <h3 class = "signup"> &nbsp Follow us on Instagram for live updates : ucsdapsa  </h3></li>
+                                     <li class = "snap"> <h3 class = "signup"> &nbsp Instagram: <a href = "https://www.instagram.com/ucsd_apsa/?hl=en"> ucsd_apsa </a></h3></li>
                                 </ul>
 
                                 <p> Signup for Email Updates!! <br>
