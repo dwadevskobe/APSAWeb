@@ -10,7 +10,9 @@ ul#facebook{
     list-style-image: url("/images/fb.png");
 }
 
-
+.snap{
+    list-style-image: url("/images/ig.png");
+}
 
 #header{
       text-decoration: none;
