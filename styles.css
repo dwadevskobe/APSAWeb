@@ -1,6 +1,18 @@
 
 @import 'https://fonts.googleapis.com/css?family=BioRhyme|Kavoon';
 
+ul#facebook{
+    margin:0 auto; 
+    list-style-position: inside;
+}
+
+.fb1{
+    list-style-image: url("/images/fb.png");
+}
+
+.snap1{
+    list-style-image: url("/images/ig.png");
+}
 
 #header{
       text-decoration: none;
