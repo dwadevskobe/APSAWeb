@@ -183,13 +183,6 @@ UCSD APSA
 					---gain leadership (something to put on your resume aye)  <br>
 					---hang out with some cool people  
 
-
-   			    <h3> APSA LEAP Meetings</h3>
-				<p class = "events"> Date: Every odd week Tuesdays (Week 1, 3, 5, 7, 9) <br> 
-   					 Time: 6:30 - 8:00 PM <br>
-   					 Location: Cross Culture Center </p>
-   				 	
-   				 	APSA LEAP will also hold biweekly meetings in which you can involve with educational access work for high school students!
 			</div>
 		</div>
 	</div>
