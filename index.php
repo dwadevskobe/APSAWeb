@@ -128,35 +128,11 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> GBM #1  API IN MEDIA</h3>
-				 <p class = "events"> Date: 1/17/17 Tuesday, 6:30 PM <br>
-				 Location: John Muir Room  </p>
-
-				 Our topic will be API in media! Come learn what APSA is about! 
-
-				 <h3> Karaoke Night @ Karaoke 101 </h3>
-				 <p class = "events"> Date: 1/19/17 Thursday, 6:00 PM  <br>
-				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
-
-				 Sing Your Hearts out !!
-
-				 <h3> Food and Boba Social </h3>
-				 <p class = "events"> Date: 1/20/17 Friday, 6:30 PM  <br>
-				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
-
-				 Come join us and eat good food at Zion Market!
-
-				 <h3> APSA GOES TO APAAC </h3>
-				 <p class = "events"> Date: 1/21/17 Saturday 8:00AM-6PM  <br>
-				 Location: Meet in front of Croutons at Student Services Center for Rides </p>
-
-				 More Info On the FB Page: <a href = "https://www.facebook.com/events/1521561687883975/"> Link </a>
-
 				 <h3> APSA Listen to Silence Conference </h3>
 				 <p class = "events"> Date: 1/27/17 - 1/29/17 <br>
 				 Location : Stanford University </p>
 
-				 More details coming soon!!
+				 MMore Info On the FB Page: <a href = "https://www.facebook.com/events/335274600167761/"> Link </a>
 				 
 
 
