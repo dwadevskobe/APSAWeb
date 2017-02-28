@@ -104,7 +104,7 @@ UCSD APSA
 		<div class = "intro">
 			<div class = "color1 shadow" style = "margin:45px; padding:10px">
 				<img src="http://fontmeme.com/embed.php?text=Announcements%3A%0A&name=Redressed.ttf&size=50&style_color=15155E" style="width:35%" >
-
+d
                                 <ul id = "facebook">
                                      <li class = "fb1"> &nbsp
                                      	<a href="https://www.facebook.com/groups/ucsdapsa/"><h3 class = "signup">Follow our Group</h3></a> &nbsp
@@ -113,8 +113,9 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Instagram: <a href = "https://www.instagram.com/ucsd_apsa/?hl=en"> ucsd_apsa </a></h3></li>
                                 </ul>
 
-                                <p> Signup for Email Updates!! <br>
-                                    <a href = https://docs.google.com/forms/d/e/1FAIpQLSfnrBFyBeVQsWj7t6ehypPskbDkBLpAtPMIV4lLtKiFfsg1vw/viewform> http://tinyurl.com/APSANewsletter </a>
+                                <p> <b>>Want to gain leadership experience and be part of planning an anticipated Biggie event, Grad Banquet? Signups 
+                                    for co-coordinator chair are now opened! </b>
+                                    <a href = "https://www.facebook.com/events/677157082466528/"> Facebook Page </a>
                                 </p>
 
                                 
@@ -128,13 +129,18 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> APSA Listen to Silence Conference </h3>
-				 <p class = "events"> Date: 1/27/17 - 1/29/17 <br>
-				 Location : Stanford University </p>
+				 <h3> Winter GBM Retreat </h3>
+				 <p class = "events"> Sunday March 5  10:00 AM - 6:00 PM <br>
+				 </p>
 
-				 MMore Info On the FB Page: <a href = "https://www.facebook.com/events/335274600167761/"> Link </a>
+				 <b> A day filled with fun you wont regret </b>
+				 More Info On the FB Event Page: <a href = "https://www.facebook.com/events/254609668326968/"> FB Page </a>
 				 
+				 <h3> APSA Talent Show </h3>
+				 <p class = "events"> Saturday March 11  6:00 PM - 10:00 PM <br>
+				 </p>
 
+				 More Info On the FB Event Page: <a href = "https://www.facebook.com/events/648780598658990/"> FB Page </a> 
 
 			</div>
 		</div>
