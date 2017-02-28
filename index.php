@@ -115,8 +115,9 @@ UCSD APSA
 
                                 <p> <b>Want to gain leadership experience and be part of planning an anticipated Biggie event, Grad Banquet? Signups 
                                     for co-coordinator chair are now opened! </b>
+                                    <a href = "https://www.facebook.com/events/677157082466528/"> <b> Facebook Page </b> </a>
                                 </p>
-                                <a href = "https://www.facebook.com/events/677157082466528/"> <b> Facebook Page </b> </a>
+                                
 			</div>
 		</div>
 	</div>
