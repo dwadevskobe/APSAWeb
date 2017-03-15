@@ -92,7 +92,7 @@ UCSD APSA
 		<div class ="center">
 			<div class = "intro">
 				<div class = "color1 shadow" style = "margin:45px; padding:10px">
-					<img src="http://fontmeme.com/embed.php?text=Welcome!&name=JennaSue.ttf&size=70&style_color=15155E" style="width:15%""><p> UC San Diego's Asian Pacific Islander Student Allianace was founded in 1970 as Asian American Student Alliance (AASA). Our organization represent the four pillars of cultural, academic, political, and social. We focus on issues related to the API community, but we're also here to have fun! Come check us out at any of our events, anyone is welcome to come! </p>
+					<img src="http://fontmeme.com/embed.php?text=Welcome!&name=JennaSue.ttf&size=70&style_color=15155E" style="width:15%""><p> UC San Diego's Asian Pacific Islander Student Allianace was founded in 1970 as Asian American Student Alliance (AASA). Our organization represent the four aspects of cultural, academic, political, and social. We focus on issues related to the API community, but we're also here to have fun! Come check us out at any of our events, anyone is welcome to come! </p>
 				</div>
 			</div>
 		</div>
@@ -128,18 +128,12 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> Winter GBM Retreat </h3>
-				 <p class = "events"> Sunday March 5  10:00 AM - 6:00 PM <br>
+				 <h3> Finals Study Jam </h3>
+				 <p class = "events"> Sunday March 19  11:00 AM - 8:00 PM <br>
 				 </p>
 
-				 <b> A day filled with fun you wont regret </b> <br>
-				 More Info On the FB Event Page: <a href = "https://www.facebook.com/events/254609668326968/"> FB Page </a>
-				 
-				 <h3> APSA Talent Show </h3>
-				 <p class = "events"> Saturday March 11  6:00 PM - 10:00 PM <br>
-				 </p>
-
-				 More Info On the FB Event Page: <a href = "https://www.facebook.com/events/648780598658990/"> FB Page </a> 
+				 <b> Location: CCC Communidad </b> <br>
+				 Refreshments will be provided!
 
 			</div>
 		</div>
