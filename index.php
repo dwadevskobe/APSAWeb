@@ -113,9 +113,7 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Instagram: <a href = "https://www.instagram.com/ucsd_apsa/?hl=en"> ucsd_apsa </a></h3></li>
                                 </ul>
 
-                                <p> <b>Want to gain leadership experience and be part of planning an anticipated Biggie event, Grad Banquet? Signups 
-                                    for co-coordinator chair are now opened! </b>
-                                    <a href = "https://www.facebook.com/events/677157082466528/"> <b> Facebook Page </b> </a>
+                                <p> <b> Please check our calendar for a list of upcoming events!! </b>
                                 </p>
                                 
 			</div>
@@ -128,26 +126,13 @@ UCSD APSA
 				<img src="http://fontmeme.com/embed.php?text=Upcoming%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
 
 
-				 <h3> Finals Study Jam </h3>
-				 <p class = "events"> Sunday March 19  11:00 AM - 8:00 PM <br>
-				 </p>
-
-				 <b> Location: CCC Communidad </b> <br>
-				 Refreshments will be provided!
-
 			</div>
 		</div>
 		<div class = "block">
 			<div class = "color1 shadow" style = "margin:15px; padding:15px">
 				<img src="http://fontmeme.com/embed.php?text=Ongoing%20Events%3A&name=Redressed.ttf&size=40&style_color=15155E" style="width:60%">
-				<h3> GENERAL BODY MEETINGS (GBMs)</h3>
-				<p class = "events"> Date: Every even week Tuesdays (Week 2, 4, 6, 8, 10) <br> 
-   					 Time: 6:30 - 8:00 PM <br> 
-   					 Location: CCC Communidad </p>
-   				 	
-   				 	Come out to our fun GBMs with interesting topics and activities! Hang out and meet new awesome people!  
 
-   				<h3> Talent Show Planning Meetings</h3>
+   				<h3> Grad Banquet Planning Meetings</h3>
 				<p class = "events"> Date: Every Wednesday <br> 
    					 Time: 6:30 - 8:00 PM <br> 
    					 Location: Cross Culture Center Artspace </p>
@@ -156,7 +141,7 @@ UCSD APSA
 					---get involved in a meaningful experience <br>
 					---make new memories   <br>
 					---gain leadership (something to put on your resume aye)  <br>
-					---hang out with some cool people  
+					---hang out with some cool people while honoring APSA seniors
 
 			</div>
 		</div>
