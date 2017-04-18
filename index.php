@@ -113,10 +113,10 @@ UCSD APSA
                                      <li class = "snap1"> <h3 class = "signup"> &nbsp Instagram: <a href = "https://www.instagram.com/ucsd_apsa/?hl=en"> ucsd_apsa </a></h3></li>
                                 </ul>
 
-                                <p> <b> Please check our calendar for a list of upcoming events!! </b>  </p>
+                                <p> <b> 1. Please check our calendar for a list of upcoming events!! </b>  </p>
 
-                                <p> <b> Below are links to our social justice newsletters </b> <br>
-                                	<ul>
+                                <p> <b> 2. Below are links to our social justice newsletters </b> <br>
+                                	<ul style = "list-style-type: none;">
                                 		<li> <a href="newsletters/apsa1.pdf"> "Who Gets to Fly in Friendly Skies" 4/17/2017 </a></li>
                                 	</ul>
 
