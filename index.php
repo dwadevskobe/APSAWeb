@@ -46,7 +46,7 @@ UCSD APSA
 		<img src="images\apsa.png" alt="Logo"  >
 	</div>
 	<div class = "center" style="margin-top:20px;">
-		<p class = "oldlink"> Link to our old website:  <a href = http://ucsdapsa.weebly.com/ > http://ucsdapsa.weebly.com/</a> </p>
+		<p class = "oldlink"> Website for future upcoming school years:  <a href = http://ucsdapsa.weebly.com/ > http://ucsdapsa.weebly.com/</a> </p>
 		<div class="slideshow-container">
 			<img class = "mySlides fade" src="images\apsa1.jpg" alt="Logo1" style="width:81%">
 			<img class = "mySlides fade" src="images\apsa.jpg" alt="Logo1" style="width:81%">
